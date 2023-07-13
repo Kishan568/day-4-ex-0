@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\Conday 4 ex-0\bin\Debug\Conday 4 ex-0.exe.config
+E:\Users\kishan\source\repos\Conday 4 ex-0\bin\Debug\Conday 4 ex-0.exe
+E:\Users\kishan\source\repos\Conday 4 ex-0\bin\Debug\Conday 4 ex-0.pdb
+E:\Users\kishan\source\repos\Conday 4 ex-0\obj\Debug\Conday 4 ex-0.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\Conday 4 ex-0\obj\Debug\Conday 4 ex-0.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\Conday 4 ex-0\obj\Debug\Conday 4 ex-0.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\Conday 4 ex-0\obj\Debug\Conday 4 ex-0.exe
+E:\Users\kishan\source\repos\Conday 4 ex-0\obj\Debug\Conday 4 ex-0.pdb
